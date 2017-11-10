@@ -7,13 +7,17 @@
 </head>
 <body>
 	<center>
-	<h1> Alquiler de autos "El Rayo"</h1>
+	<h1> Usuarios</h1>
+		<p> </p>
+		
 		<form>
-			<button type = "submit" formaction="users">Usuarios</button>
+			<button type = "submit" formaction="Crear">Crear</button>
 			<p></p>
-			<button type = "submit" formaction="users">Autos</button>
+			<button type = "submit" formaction="Modificar">Modificar</button>
 			<p></p>
-			<button type = "submit" formaction="users">Rentas</button>
+			<button type = "submit" formaction= "Buscar">Buscar</button>
+			<p></p>
+			<button type = "submit" formaction="Eliminar">Eliminar</button>
 		
 		</form> 
 	</center>
